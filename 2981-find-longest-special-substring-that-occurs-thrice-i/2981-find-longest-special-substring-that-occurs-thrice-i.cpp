@@ -1,32 +1,44 @@
+#include <unordered_map>
+#include <string>
+using namespace std;
+
 class Solution {
 public:
     int maximumLength(string s) {
         int n = s.size();
         int maxLength = -1;
-        
-        // Iterate over all starting points of substrings
-        for (int i = 0; i < n; ++i) {
-            int j = i;
-            // Expand while the substring is "special" (all same characters)
-            while (j < n && s[j] == s[i]) {
-                string substring = s.substr(i, j - i + 1);
-                int count = 0;
 
-                // Count occurrences of substring in s
-                for (size_t k = 0; k + substring.size() <= s.size(); ++k) {
-                    if (s.substr(k, substring.size()) == substring) {
-                        ++count;
-                    }
+        // Iterate over possible lengths of special substrings
+        for (int len = 1; len <= n; ++len) {
+            unordered_map<string, int> substringCount;
+            
+            // Count all substrings of the current length `len`
+            for (int i = 0; i + len <= n; ++i) {
+                string substring = s.substr(i, len);
+                // Check if the substring is special
+                if (isSpecial(substring)) {
+                    substringCount[substring]++;
                 }
+            }
 
-                // Update maxLength if this substring occurs at least 3 times
+            // Check if any substring of this length occurs at least 3 times
+            for (auto& [substring, count] : substringCount) {
                 if (count >= 3) {
-                    maxLength = max(maxLength, j - i + 1);
+                    maxLength = len;
                 }
-                ++j;
             }
         }
-        
+
         return maxLength;
+    }
+
+private:
+    bool isSpecial(const string& s) {
+        // Check if all characters in the string are the same
+        char first = s[0];
+        for (char c : s) {
+            if (c != first) return false;
+        }
+        return true;
     }
 };
