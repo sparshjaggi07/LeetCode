@@ -1,23 +1,28 @@
 #include <vector>
-#include <map>
+#include <algorithm>
 using namespace std;
 
 class Solution {
 public:
     int maximumBeauty(vector<int>& nums, int k) {
-        // Difference array using a map
-        map<int, int> diff;
+        // Define the range of possible values
+        int maxNum = *max_element(nums.begin(), nums.end());
+        int minNum = *min_element(nums.begin(), nums.end());
+        
+        // Use a frequency array
+        int offset = 100000; // To handle negative indices
+        vector<int> freq(2 * offset + 1, 0);
 
-        // Update the ranges
+        // Update the difference array
         for (int num : nums) {
-            diff[num - k]++;
-            diff[num + k + 1]--;
+            freq[num - k + offset]++;
+            freq[num + k + 1 + offset]--;
         }
 
         // Calculate the maximum beauty using a sweep-line approach
         int maxBeauty = 0, currentBeauty = 0;
-        for (auto& [key, value] : diff) {
-            currentBeauty += value;
+        for (int count : freq) {
+            currentBeauty += count;
             maxBeauty = max(maxBeauty, currentBeauty);
         }
 
