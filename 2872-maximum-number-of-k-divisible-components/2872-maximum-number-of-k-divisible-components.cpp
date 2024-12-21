@@ -1,35 +1,51 @@
 class Solution {
 public:
     int maxKDivisibleComponents(int n, vector<vector<int>>& edges, vector<int>& values, int k) {
-        vector<vector<int>> graph(n);
-        vector<int> visited(n, 0);
+        if (n < 2) return 1;
 
-        for (auto& edge : edges) {
-            graph[edge[0]].push_back(edge[1]);
-            graph[edge[1]].push_back(edge[0]);
+        int componentCount = 0;
+        unordered_map<int, unordered_set<int>> graph;
+
+        for (const auto& edge : edges) {
+            int node1 = edge[0], node2 = edge[1];
+            graph[node1].insert(node2);
+            graph[node2].insert(node1);
         }
 
-        int components = 0;
+        vector<long long> longValues(values.begin(), values.end());
 
-        function<long long(int)> dfs = [&](int node) {
-            visited[node] = 1;
-            long long subtreeSum = values[node];
+        queue<int> queue;
+        for (const auto& [node, neighbors] : graph) {
+            if (neighbors.size() == 1) {
+                queue.push(node);
+            }
+        }
 
-            for (int neighbor : graph[node]) {
-                if (!visited[neighbor]) {
-                    subtreeSum += dfs(neighbor);
-                }
+        while (!queue.empty()) {
+            int currentNode = queue.front();
+            queue.pop();
+
+            int neighborNode = -1;
+            if (!graph[currentNode].empty()) {
+                neighborNode = *graph[currentNode].begin();
             }
 
-            if (subtreeSum % k == 0) {
-                components++;
-                return 0LL;
+            if (neighborNode >= 0) {
+                graph[neighborNode].erase(currentNode);
+                graph[currentNode].erase(neighborNode);
             }
 
-            return subtreeSum;
-        };
+            if (longValues[currentNode] % k == 0) {
+                componentCount++;
+            } else if (neighborNode >= 0) {
+                longValues[neighborNode] += longValues[currentNode];
+            }
 
-        dfs(0);
-        return components;
+            if (neighborNode >= 0 && graph[neighborNode].size() == 1) {
+                queue.push(neighborNode);
+            }
+        }
+
+        return componentCount;
     }
 };
