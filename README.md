@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/sparshjaggi07/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sparshjaggi07/LeetCode/tree/master/0213-house-robber-ii) |
 | [0455-assign-cookies](https://github.com/sparshjaggi07/LeetCode/tree/master/0455-assign-cookies) |
+| [0945-snakes-and-ladders](https://github.com/sparshjaggi07/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/sparshjaggi07/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sparshjaggi07/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/sparshjaggi07/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0063-unique-paths-ii](https://github.com/sparshjaggi07/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sparshjaggi07/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0945-snakes-and-ladders](https://github.com/sparshjaggi07/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/sparshjaggi07/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 ## Binary Search
 |  |
@@ -146,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0945-snakes-and-ladders](https://github.com/sparshjaggi07/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sparshjaggi07/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Graph
 |  |
