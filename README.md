@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0006-zigzag-conversion](https://github.com/sparshjaggi07/LeetCode/tree/master/0006-zigzag-conversion) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/sparshjaggi07/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/sparshjaggi07/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/sparshjaggi07/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Array
 |  |
 | ------- |
@@ -95,8 +96,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2202-sum-of-k-mirror-numbers](https://github.com/sparshjaggi07/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/sparshjaggi07/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sparshjaggi07/LeetCode/tree/master/0070-climbing-stairs) |
+## Sliding Window
+|  |
+| ------- |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/sparshjaggi07/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/sparshjaggi07/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 <!---LeetCode Topics End-->
