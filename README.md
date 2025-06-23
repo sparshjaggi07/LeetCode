@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/sparshjaggi07/LeetCode/tree/master/0386-lexicographical-numbers) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/sparshjaggi07/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Stack
 |  |
 | ------- |
@@ -154,4 +155,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sparshjaggi07/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/sparshjaggi07/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 <!---LeetCode Topics End-->
