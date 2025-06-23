@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/sparshjaggi07/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/sparshjaggi07/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/sparshjaggi07/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3647-zero-array-transformation-iii](https://github.com/sparshjaggi07/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/sparshjaggi07/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Dynamic Programming
 |  |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/sparshjaggi07/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/sparshjaggi07/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/sparshjaggi07/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3647-zero-array-transformation-iii](https://github.com/sparshjaggi07/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -82,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/sparshjaggi07/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/sparshjaggi07/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/sparshjaggi07/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3647-zero-array-transformation-iii](https://github.com/sparshjaggi07/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -134,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [3647-zero-array-transformation-iii](https://github.com/sparshjaggi07/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/sparshjaggi07/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Trie
 |  |
@@ -156,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/sparshjaggi07/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3647-zero-array-transformation-iii](https://github.com/sparshjaggi07/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Union Find
 |  |
 | ------- |
