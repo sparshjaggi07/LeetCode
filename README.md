@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/sparshjaggi07/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/sparshjaggi07/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sparshjaggi07/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/sparshjaggi07/LeetCode/tree/master/0120-triangle) |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/sparshjaggi07/LeetCode/tree/master/0062-unique-paths) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/sparshjaggi07/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/sparshjaggi07/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/sparshjaggi07/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -73,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/sparshjaggi07/LeetCode/tree/master/0062-unique-paths) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/sparshjaggi07/LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Hash Table
 |  |
