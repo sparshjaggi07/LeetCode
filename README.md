@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/sparshjaggi07/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sparshjaggi07/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/sparshjaggi07/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/sparshjaggi07/LeetCode/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/sparshjaggi07/LeetCode/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/sparshjaggi07/LeetCode/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/sparshjaggi07/LeetCode/tree/master/0198-house-robber) |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sparshjaggi07/LeetCode/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/sparshjaggi07/LeetCode/tree/master/0455-assign-cookies) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sparshjaggi07/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/sparshjaggi07/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -92,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sparshjaggi07/LeetCode/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/sparshjaggi07/LeetCode/tree/master/0455-assign-cookies) |
 ## Math
 |  |
