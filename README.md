@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/sparshjaggi07/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sparshjaggi07/LeetCode/tree/master/0213-house-robber-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/sparshjaggi07/LeetCode/tree/master/0967-minimum-falling-path-sum) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/sparshjaggi07/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/sparshjaggi07/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Matrix
 |  |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/sparshjaggi07/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sparshjaggi07/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/sparshjaggi07/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/sparshjaggi07/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -108,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/sparshjaggi07/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/sparshjaggi07/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/sparshjaggi07/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Enumeration
@@ -119,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sparshjaggi07/LeetCode/tree/master/0070-climbing-stairs) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/sparshjaggi07/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Sliding Window
 |  |
 | ------- |
@@ -163,10 +167,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sparshjaggi07/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/sparshjaggi07/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/sparshjaggi07/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Tree
 |  |
 | ------- |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/sparshjaggi07/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/sparshjaggi07/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+## Topological Sort
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/sparshjaggi07/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
