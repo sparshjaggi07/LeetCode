@@ -112,5 +112,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Trie
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/sparshjaggi07/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/sparshjaggi07/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/sparshjaggi07/LeetCode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
