@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/sparshjaggi07/LeetCode/tree/master/0006-zigzag-conversion) |
+| [0125-valid-palindrome](https://github.com/sparshjaggi07/LeetCode/tree/master/0125-valid-palindrome) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/sparshjaggi07/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2032-largest-odd-number-in-string](https://github.com/sparshjaggi07/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sparshjaggi07/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sparshjaggi07/LeetCode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/sparshjaggi07/LeetCode/tree/master/0125-valid-palindrome) |
 | [0455-assign-cookies](https://github.com/sparshjaggi07/LeetCode/tree/master/0455-assign-cookies) |
 ## Math
 |  |
