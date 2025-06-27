@@ -213,4 +213,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/sparshjaggi07/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/sparshjaggi07/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
