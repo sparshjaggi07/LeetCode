@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0945-snakes-and-ladders](https://github.com/sparshjaggi07/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/sparshjaggi07/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sparshjaggi07/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sparshjaggi07/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/sparshjaggi07/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/sparshjaggi07/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sparshjaggi07/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sparshjaggi07/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/sparshjaggi07/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/sparshjaggi07/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Greedy
@@ -90,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0075-sort-colors](https://github.com/sparshjaggi07/LeetCode/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/sparshjaggi07/LeetCode/tree/master/0455-assign-cookies) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sparshjaggi07/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sparshjaggi07/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sparshjaggi07/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/sparshjaggi07/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -104,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/sparshjaggi07/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/sparshjaggi07/LeetCode/tree/master/0125-valid-palindrome) |
 | [0455-assign-cookies](https://github.com/sparshjaggi07/LeetCode/tree/master/0455-assign-cookies) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sparshjaggi07/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Math
 |  |
 | ------- |
