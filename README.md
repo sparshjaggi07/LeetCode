@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/sparshjaggi07/LeetCode/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/sparshjaggi07/LeetCode/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/sparshjaggi07/LeetCode/tree/master/0135-candy) |
+| [0189-rotate-array](https://github.com/sparshjaggi07/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/sparshjaggi07/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sparshjaggi07/LeetCode/tree/master/0213-house-robber-ii) |
 | [0455-assign-cookies](https://github.com/sparshjaggi07/LeetCode/tree/master/0455-assign-cookies) |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0075-sort-colors](https://github.com/sparshjaggi07/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/sparshjaggi07/LeetCode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/sparshjaggi07/LeetCode/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/sparshjaggi07/LeetCode/tree/master/0455-assign-cookies) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sparshjaggi07/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sparshjaggi07/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -136,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0062-unique-paths](https://github.com/sparshjaggi07/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sparshjaggi07/LeetCode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/sparshjaggi07/LeetCode/tree/master/0189-rotate-array) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sparshjaggi07/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/sparshjaggi07/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/sparshjaggi07/LeetCode/tree/master/2032-largest-odd-number-in-string) |
