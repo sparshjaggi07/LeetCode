@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0120-triangle](https://github.com/sparshjaggi07/LeetCode/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/sparshjaggi07/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/sparshjaggi07/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/sparshjaggi07/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sparshjaggi07/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/sparshjaggi07/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sparshjaggi07/LeetCode/tree/master/0213-house-robber-ii) |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sparshjaggi07/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/sparshjaggi07/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/sparshjaggi07/LeetCode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/sparshjaggi07/LeetCode/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/sparshjaggi07/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -168,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/sparshjaggi07/LeetCode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/sparshjaggi07/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/sparshjaggi07/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/sparshjaggi07/LeetCode/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/sparshjaggi07/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sparshjaggi07/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -182,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sparshjaggi07/LeetCode/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/sparshjaggi07/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sparshjaggi07/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/sparshjaggi07/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -327,4 +331,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sparshjaggi07/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sparshjaggi07/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
