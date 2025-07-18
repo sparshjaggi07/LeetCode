@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/sparshjaggi07/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sparshjaggi07/LeetCode/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/sparshjaggi07/LeetCode/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sparshjaggi07/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/sparshjaggi07/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/sparshjaggi07/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sparshjaggi07/LeetCode/tree/master/0169-majority-element) |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/sparshjaggi07/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sparshjaggi07/LeetCode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/sparshjaggi07/LeetCode/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sparshjaggi07/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/sparshjaggi07/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sparshjaggi07/LeetCode/tree/master/0213-house-robber-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/sparshjaggi07/LeetCode/tree/master/0967-minimum-falling-path-sum) |
