@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/sparshjaggi07/LeetCode/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/sparshjaggi07/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sparshjaggi07/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/sparshjaggi07/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/sparshjaggi07/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/sparshjaggi07/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sparshjaggi07/LeetCode/tree/master/0169-majority-element) |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/sparshjaggi07/LeetCode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/sparshjaggi07/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/sparshjaggi07/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/sparshjaggi07/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/sparshjaggi07/LeetCode/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/sparshjaggi07/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -249,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sparshjaggi07/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/sparshjaggi07/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 ## Breadth-First Search
 |  |
