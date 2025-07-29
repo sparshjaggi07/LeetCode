@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sparshjaggi07/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2479-meeting-rooms-iii](https://github.com/sparshjaggi07/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sparshjaggi07/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sparshjaggi07/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/sparshjaggi07/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/sparshjaggi07/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/sparshjaggi07/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sparshjaggi07/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sparshjaggi07/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/sparshjaggi07/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sparshjaggi07/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/sparshjaggi07/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Greedy
 |  |
@@ -250,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/sparshjaggi07/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1813-maximum-erasure-value](https://github.com/sparshjaggi07/LeetCode/tree/master/1813-maximum-erasure-value) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sparshjaggi07/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/sparshjaggi07/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/sparshjaggi07/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Prefix Sum
@@ -320,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0136-single-number](https://github.com/sparshjaggi07/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sparshjaggi07/LeetCode/tree/master/0268-missing-number) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sparshjaggi07/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/sparshjaggi07/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sparshjaggi07/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/sparshjaggi07/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
