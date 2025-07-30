@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2479-meeting-rooms-iii](https://github.com/sparshjaggi07/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sparshjaggi07/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sparshjaggi07/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sparshjaggi07/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/sparshjaggi07/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/sparshjaggi07/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/sparshjaggi07/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -324,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/sparshjaggi07/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sparshjaggi07/LeetCode/tree/master/0268-missing-number) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sparshjaggi07/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sparshjaggi07/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/sparshjaggi07/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sparshjaggi07/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/sparshjaggi07/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -411,4 +413,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2079-delete-duplicate-folders-in-system](https://github.com/sparshjaggi07/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sparshjaggi07/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
