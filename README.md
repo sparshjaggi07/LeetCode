@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-koko-eating-bananas](https://github.com/sparshjaggi07/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0945-snakes-and-ladders](https://github.com/sparshjaggi07/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/sparshjaggi07/LeetCode/tree/master/0967-minimum-falling-path-sum) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sparshjaggi07/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sparshjaggi07/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sparshjaggi07/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sparshjaggi07/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0493-reverse-pairs](https://github.com/sparshjaggi07/LeetCode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sparshjaggi07/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/sparshjaggi07/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sparshjaggi07/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sparshjaggi07/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/sparshjaggi07/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sparshjaggi07/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
