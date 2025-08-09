@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/sparshjaggi07/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sparshjaggi07/LeetCode/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/sparshjaggi07/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0826-soup-servings](https://github.com/sparshjaggi07/LeetCode/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sparshjaggi07/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0967-minimum-falling-path-sum](https://github.com/sparshjaggi07/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sparshjaggi07/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -223,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/sparshjaggi07/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/sparshjaggi07/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sparshjaggi07/LeetCode/tree/master/0268-missing-number) |
+| [0826-soup-servings](https://github.com/sparshjaggi07/LeetCode/tree/master/0826-soup-servings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sparshjaggi07/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sparshjaggi07/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/sparshjaggi07/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -501,4 +503,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0496-next-greater-element-i](https://github.com/sparshjaggi07/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sparshjaggi07/LeetCode/tree/master/0503-next-greater-element-ii) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/sparshjaggi07/LeetCode/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
