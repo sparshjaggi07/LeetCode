@@ -286,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sparshjaggi07/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/sparshjaggi07/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/sparshjaggi07/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3678-design-task-manager](https://github.com/sparshjaggi07/LeetCode/tree/master/3678-design-task-manager) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/sparshjaggi07/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sparshjaggi07/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Counting
@@ -384,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2479-meeting-rooms-iii](https://github.com/sparshjaggi07/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/sparshjaggi07/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/sparshjaggi07/LeetCode/tree/master/3647-zero-array-transformation-iii) |
+| [3678-design-task-manager](https://github.com/sparshjaggi07/LeetCode/tree/master/3678-design-task-manager) |
 ## Union Find
 |  |
 | ------- |
@@ -499,6 +501,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/sparshjaggi07/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/sparshjaggi07/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2429-design-a-food-rating-system](https://github.com/sparshjaggi07/LeetCode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/sparshjaggi07/LeetCode/tree/master/3678-design-task-manager) |
 ## Linked List
 |  |
 | ------- |
@@ -529,6 +532,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0493-reverse-pairs](https://github.com/sparshjaggi07/LeetCode/tree/master/0493-reverse-pairs) |
 | [2429-design-a-food-rating-system](https://github.com/sparshjaggi07/LeetCode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/sparshjaggi07/LeetCode/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/sparshjaggi07/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Function
 |  |
